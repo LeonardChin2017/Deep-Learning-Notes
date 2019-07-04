@@ -20,8 +20,24 @@
        | Convolutional net, cross-entropy [elastic distortions]              | none                        | 0.4                 |
        | committee of 35 conv. net, 1-20-P-40-P-150-10 [elastic distortions] | width normalization         | 0.23                |
      
-     * Link: http://yann.lecun.com/exdb/mnist/
+     * Download: http://yann.lecun.com/exdb/mnist/
      
     * MSCOCO
+      * Brief description: Complex everyday scenes of common objects in their natural context.
+      * Take note that COCO has five annotations, for object detection, keypoint detection, stuff segmentation, panoptic segmentation, and         image captioning. The annotations are stored using JSON format. 
+      * Instances: 2,500,000
+      * Download: http://cocodataset.org/#download
+      
     * PASCAL VOC
+      * Brief description: Large number of images for classification tasks.
+      * Instances: 500,000
+      * Download: http://host.robots.ox.ac.uk/pascal/VOC/
+      
     * CIFAR 10 
+      * Brief description: Many small, low-resolution, images of 10 classes of objects.
+      * Instances: 60,000
+      * Download: https://www.cs.toronto.edu/~kriz/cifar.html
+      
+    * CIFAR 100
+      * Brief description: Like CIFAR-10, above, but 100 classes of objects are given.
+      * Instances: 60,000
