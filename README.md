@@ -41,3 +41,13 @@
     * CIFAR 100
       * Brief description: Like CIFAR-10, above, but 100 classes of objects are given.
       * Instances: 60,000
+      
+    * OpenImage
+      * Brief description: A dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, and visual relationships.
+      * Instances: 9,178,275
+      * Download: https://storage.googleapis.com/openimages/web/factsfigures.html
+      
+    * ImageNet
+      * Brief description: Labeled object image database, used in the ImageNet Large Scale Visual Recognition Challenge.
+      * Instances: 14,197,122
+      * Download: http://image-net.org/download
